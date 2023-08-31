@@ -1,0 +1,15 @@
+/Users/martinzhechev/Documents/Betty/Betty/bin/Debug/net6.0/Betty
+/Users/martinzhechev/Documents/Betty/Betty/bin/Debug/net6.0/Betty.deps.json
+/Users/martinzhechev/Documents/Betty/Betty/bin/Debug/net6.0/Betty.runtimeconfig.json
+/Users/martinzhechev/Documents/Betty/Betty/bin/Debug/net6.0/Betty.dll
+/Users/martinzhechev/Documents/Betty/Betty/bin/Debug/net6.0/Betty.pdb
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.csproj.AssemblyReference.cache
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.AssemblyInfoInputs.cache
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.AssemblyInfo.cs
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.csproj.CoreCompileInputs.cache
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.dll
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/refint/Betty.dll
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.pdb
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/Betty.genruntimeconfig.cache
+/Users/martinzhechev/Documents/Betty/Betty/obj/Debug/net6.0/ref/Betty.dll
